@@ -1,0 +1,23 @@
+This assignment will have you go through https://www.w3schools.com/css/Links to an external site. to learn CSS. 
+Go through the first 12 items (Home - Height/Width).
+Note:
+  Do this today please
+
+Once you understand each of these CSS elements, you need to create a sample web page which demonstrates each of these items. 
+Note:
+  Add to normal website?
+
+BE SURE THE PAGE LABELS EACH ELEMENT CLEARLY SO IT CAN BE SEEN YOU HAVE USED EACH ELEMENT.
+Use INTERNAL CSS - this means your CSS code should be within the HTML file. 
+Note:
+  Ok
+
+Name the file GroupCSS1.html
+
+Post the HTML page on your website. 
+Note:
+  Have it anyway?
+
+SUBMIT THE FOLLOWING:
+  Submit the URL.
+  Submit a PDF of the html file. 
