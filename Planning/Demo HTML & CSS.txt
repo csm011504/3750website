@@ -1,0 +1,39 @@
+In this assignment you are to create a minimum of THREE web pages with plenty of content. Pick something of interest to you. It could be a paper you have written for school or a favorite hobby or whatever interests you. 
+Notes:
+  Page one about me. Page two about Clemson/CPSC. Page three about racecars.
+
+Demonstrate with these pages the following:
+
+Use the required HTML tags on every page
+  Notes:
+    This will be done as the site is created
+    
+Use hyperlinks 
+  within a page
+  to an external page (one you create)
+  to an email address
+  Notes:
+    Link to Linkedin
+    Link to cool stuff Clemson is doing, or links to reasons I'm here?
+    Link to races or CTR
+    
+organize the page using
+  paragraphs
+  line breaks
+  headings
+  Notes:
+    Make the pages look good bozo
+    
+semantic elements (see figure 2.4 in textbook)
+  main header
+  nav
+  aside
+  section with header and footer
+  main footer
+  Notes:
+    Make the pages look good x2 bozo
+    
+create a style sheet and apply to ALL of your pages 
+  demonstrate as many as you are able of the styles presented in chapter 2 
+  Notes:
+    Make the style thing and then change color between pages using h1 and h2 etc...
