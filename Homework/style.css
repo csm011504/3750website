@@ -23,7 +23,8 @@ main {
             padding: 20px;
         }
 footer {
-            margin: 200px;
+            background: #003366;
+            margin-top: 200px;
             padding: 10px 0;
             position: fixed;
             width: 100%;
