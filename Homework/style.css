@@ -23,8 +23,7 @@ main {
             padding: 20px;
         }
 footer {
-            background: #003366;
-            color: white;
+            margin: 200px;
             padding: 10px 0;
             position: fixed;
             width: 100%;
