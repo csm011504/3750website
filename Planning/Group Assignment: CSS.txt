@@ -16,7 +16,7 @@ Note:
 12 Pages with stuff
   First to do: Make sure use h1 and stuff
   2nd: Use an id and/or class. Maybe a select all?
-  3rd: Have a CSS file with link thing
+  3rd: Have internal CSS
   4th: Have a CSS comment and HTML comment
   5th: Use Colors
   6th: Use backgrounds, at least a color and an image. Repeating Image?
