@@ -8,14 +8,14 @@ body {
     background-color: #f4f4f4;
 }
 
-header {
+head {
     background: #35424a;
     color: #ffffff;
     padding: 1rem 0;
     text-align: center;
 }
 
-header h1 {
+h1 {
     margin: 0;
 }
 
