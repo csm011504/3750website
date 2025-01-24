@@ -1,0 +1,17 @@
+Items Needed?:
+  Box Model
+  Icons
+  Lists, unordered
+  Lists, ordered
+  Tables
+  Responsive Tables
+  Header
+  Nav Bar
+  Content
+  Footer
+  Image Gallery
+  Floats
+Finish:
+  Submit URL to Canvas
+  Put files in the other GitHub
+    Submit link to Canvas
