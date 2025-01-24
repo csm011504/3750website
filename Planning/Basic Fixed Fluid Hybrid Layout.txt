@@ -1,13 +1,15 @@
 Fixing File:
   Add space to right column text
+    Done
   Add margins to middle text
+    Done
   "footer strip is a little sparse"
+    Done
   Change colors to Clemson colors
+    Done
 
 Make it responsive
   Need to research
-  Media Query?
-  Alt Style Sheet?
 
 Add Nav Bar to ALL
   Research
