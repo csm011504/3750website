@@ -1,0 +1,18 @@
+Fixing File:
+  Add space to right column text
+  Add margins to middle text
+  "footer strip is a little sparse"
+  Change colors to Clemson colors
+
+Make it responsive
+  Need to research
+  Media Query?
+  Alt Style Sheet?
+
+Add Nav Bar to ALL
+  Research
+
+Finish:
+  Submit link to Canvas
+  Put files in other GitHub
+    Submit link to that folder to Canvas
