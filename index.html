@@ -34,9 +34,37 @@
             width: 100%;
             bottom: 0;
         }
+
+    ul.nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #000;
+        width: 100%;
+    }
+    
+    li.nav {
+        float: left;
+        border-right: 1px solid #bbb;
+    }
+    
+    li.nav a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        }
+    
+    li.nav a:hover:not(.active) {
+        background-color: #1a18eb;
+        }
+        
     </style>
 </head>
-<body>
+
+    <body>
     <header>
         <h1>3750 Website</h1>
         <p>My name is Christopher Montague. This is my web site for CPSC 3750 Spring 2025.</p>
