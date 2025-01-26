@@ -28,7 +28,7 @@ footer {
             padding: 20px 0;
             width: 100%;
         }
-ul {
+ul.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -37,12 +37,12 @@ ul {
     width: 100%;
 }
 
-li {
+li.nav {
     float: left;
     border-right: 1px solid #bbb;
 }
 
-li a {
+li.nav a {
     display: block;
     color: white;
     text-align: center;
@@ -50,6 +50,6 @@ li a {
     text-decoration: none;
     }
 
-li a:hover:not(.active) {
+li.nav a:hover:not(.active) {
     background-color: #1a18eb;
     }
