@@ -53,3 +53,9 @@ li.nav a {
 li.nav a:hover:not(.active) {
     background-color: #1a18eb;
     }
+
+li.norm {
+}
+
+ul.norm {
+}
