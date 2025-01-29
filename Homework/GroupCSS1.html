@@ -15,10 +15,46 @@
         background-color: LightGray;
        } 
 #center {text-align: center;}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+    width: 100%;
+}
+
+li.nav {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+li.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+li.nav a:hover:not(.active) {
+    background-color: #1a18eb;
+    }
+  
 </style>
 </head>
 
 <body id="center">
+
+  <ul.nav>
+          <li.nav><a href="../index.html">Index Page</a></li>
+          <li.nav><a href="demo.html">HW 1.1</a></li>
+          <li.nav><a href="demo2.html">HW 1.2</a></li>
+          <li.nav><a href="demo3.html">HW 1.3</a></li>
+          <li.nav><a href="layout.html">Layout Asg</a></li>
+      </ul>
+  
   <h1>This is a heading in h1, under id of "center". It has red hex font, a red border, and 100px padding. </h1>
   <p>This is a paragraph in p under an id of "#center". It is hsl black font, 100px top margin, its at the top of its
   section, 50% width, and has a LightGray background. The full page has a blue RGB background. </p>
